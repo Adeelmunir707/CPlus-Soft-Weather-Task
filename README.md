@@ -117,7 +117,7 @@ uvicorn app.main:app --reload
 
 #### Response Example (Image)
 
-![signup-response](images/IMG1-signup.PNG)
+![signup-response](images/IMG1-signup.png)
 
 #### cURL
 
@@ -149,7 +149,7 @@ curl -X 'POST' \
 
 #### Response Example (Image)
 
-![login-response](images/IMG2-login.PNG)
+![login-response](images/IMG2-login.png)
 
 #### cURL
 
@@ -180,12 +180,12 @@ curl -X 'GET' \
 
 #### Response Example 
 
-![weather-response](images/IMG3-weather.PNG)
+![weather-response](images/IMG3-weather.png)
 
 ---
 
 #### Database Table:
-![table-data](images/IMG4-tables.PNG)
+![table-data](images/IMG4-tables.png)
 
 
 ## 🚀 Running Tests

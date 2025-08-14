@@ -3,11 +3,11 @@
     "host": "localhost",
     "port": 5432,
     "user": "postgres",
-    "password": "somuch@fun2",
+    "password": "s*********2",
     "dbname": "postgres"
   },
   "jwt": {
-    "secret_key": "F8769SZHLNAKEZC38S8J9LYR5",
+    "secret_key": "YOUR_WEATHER_API_KEY",
     "algorithm": "HS256",
     "access_token_expires_minutes": 60
   }

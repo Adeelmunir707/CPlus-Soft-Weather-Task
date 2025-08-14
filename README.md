@@ -187,6 +187,8 @@ curl -X 'GET' \
 #### Database Table:
 ![table-data](images/IMG4-tables.png)
 
+**As the password is hashed for better security. ON login, password follow the decrypting process.**
+
 
 ## 🚀 Running Tests
 

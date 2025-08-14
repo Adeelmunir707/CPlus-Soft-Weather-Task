@@ -16,7 +16,3 @@ def get_weather_forecast():
     response = requests.get(WEATHER_URL)
     response.raise_for_status()  # Raise error if request failed
     return response.json()
-
-if __name__ == "__main__":
-    data = get_weather_forecast()
-    print(data)
